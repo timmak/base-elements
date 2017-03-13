@@ -3,5 +3,6 @@ module.exports = {
   progress: require('./progress'),
   toolbar: require('./toolbar'),
   tooltip: require('./tooltip'),
+  spacer: require('./spacer'),
   modal: require('./modal')
 }
